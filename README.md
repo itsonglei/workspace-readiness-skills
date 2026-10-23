@@ -9,6 +9,7 @@
 [![Skills](https://img.shields.io/badge/Skills-6-4F46E5?style=for-the-badge)](#专家团)
 [![Read only by default](https://img.shields.io/badge/Default-Read--only-059669?style=for-the-badge)](#安全边界)
 [![Unknown first](https://img.shields.io/badge/Evidence-UNKNOWN%20before%20guessing-F59E0B?style=for-the-badge)](#核心原则)
+[![License: MIT](https://img.shields.io/badge/License-MIT-2563EB?style=for-the-badge)](LICENSE)
 
 </div>
 
@@ -160,6 +161,10 @@ workspace-readiness-skills/
 - “Git CLEAN 但需求未完成”的冲突测试；
 - 混合 diff 拆分与 `UNATTRIBUTED` 变更测试；
 - 专家越权检查：提交专家不得宣布验收，Git 专家不得宣布需求完成。
+
+## 许可证
+
+本项目采用 [MIT License](LICENSE)。
 
 ---
 

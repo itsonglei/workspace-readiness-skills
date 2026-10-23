@@ -1,0 +1,7 @@
+interface:
+  display_name: "Workspace Readiness Expert Team"
+  short_description: "调度五类只读专家，统一汇总工作区交付就绪度与证据冲突"
+  default_prompt: "Use $workspace-readiness to dispatch the readiness expert team and consolidate Git, requirement, commit, acceptance, and minimum-delivery evidence."
+
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,7 @@
+interface:
+  display_name: "Workspace Readiness · Requirements"
+  short_description: "综合当前会话、任务历史与规格制品的权威证据判断需求状态"
+  default_prompt: "Use $workspace-readiness-requirements to build an evidence-backed ledger of done, open, blocked, and unknown requirements."
+
+policy:
+  allow_implicit_invocation: false

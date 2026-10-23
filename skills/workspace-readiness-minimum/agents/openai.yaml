@@ -1,0 +1,7 @@
+interface:
+  display_name: "Workspace Readiness · Minimum"
+  short_description: "检查最小完整交付、缺失闭环、必要安全边界与过度设计"
+  default_prompt: "Use $workspace-readiness-minimum to judge whether a workline is the smallest complete delivery."
+
+policy:
+  allow_implicit_invocation: false

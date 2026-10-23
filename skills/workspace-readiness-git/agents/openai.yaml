@@ -1,0 +1,7 @@
+interface:
+  display_name: "Workspace Readiness · Git"
+  short_description: "只读盘点多仓 Git 状态、分支、差异、冲突与 stash"
+  default_prompt: "Use $workspace-readiness-git to collect Git facts for this workspace without judging requirement or acceptance completion."
+
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,7 @@
+interface:
+  display_name: "Workspace Readiness · Commit"
+  short_description: "按目标与依赖拆分独立工作线并判断本地提交就绪度与风险"
+  default_prompt: "Use $workspace-readiness-commit to partition this mixed change set into independently committable worklines."
+
+policy:
+  allow_implicit_invocation: false

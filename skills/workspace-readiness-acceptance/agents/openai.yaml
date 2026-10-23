@@ -1,0 +1,7 @@
+interface:
+  display_name: "Workspace Readiness · Acceptance"
+  short_description: "分层核对验收契约、前置条件、证据新鲜度、剩余缺口与风险"
+  default_prompt: "Use $workspace-readiness-acceptance to judge acceptance readiness without running unauthorized acceptance."
+
+policy:
+  allow_implicit_invocation: false
